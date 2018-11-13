@@ -1,0 +1,291 @@
+{"seq": "T1", "typ": "Disease", "st": 3148, "ed": 3154, "name": "2 \u578b\u7cd6\u5c3f\u75c5"}
+{"seq": "T2", "typ": "Disease", "st": 3056, "ed": 3062, "name": "\u52a8\u8109\u7ca5\u6837\u786c\u5316"}
+{"seq": "T3", "typ": "Test", "st": 8556, "ed": 8561, "name": "\u6e38\u79bb\u8102\u80aa\u9178"}
+{"seq": "T4", "typ": "Anatomy", "st": 8528, "ed": 8532, "name": "\u8102\u80aa\u7ec6\u80de"}
+{"seq": "T5", "typ": "Disease", "st": 3080, "ed": 3082, "name": "AS"}
+{"seq": "T6", "typ": "Disease", "st": 3185, "ed": 3187, "name": "AS"}
+{"seq": "T7", "typ": "Disease", "st": 3359, "ed": 3361, "name": "AS"}
+{"seq": "T8", "typ": "Disease", "st": 8059, "ed": 8061, "name": "AS"}
+{"seq": "T9", "typ": "Disease", "st": 8235, "ed": 8237, "name": "AS"}
+{"seq": "T10", "typ": "Disease", "st": 8273, "ed": 8275, "name": "AS"}
+{"seq": "T11", "typ": "Disease", "st": 8634, "ed": 8636, "name": "AS"}
+{"seq": "T12", "typ": "Disease", "st": 8983, "ed": 8985, "name": "AS"}
+{"seq": "T13", "typ": "Disease", "st": 9377, "ed": 9379, "name": "AS"}
+{"seq": "T14", "typ": "Disease", "st": 9637, "ed": 9639, "name": "AS"}
+{"seq": "T15", "typ": "Test", "st": 408, "ed": 418, "name": "p-ERK1 / 2"}
+{"seq": "T16", "typ": "Test", "st": 577, "ed": 587, "name": "p-ERK1 / 2"}
+{"seq": "T17", "typ": "Test", "st": 721, "ed": 731, "name": "p-ERK1 / 2"}
+{"seq": "T18", "typ": "Test", "st": 2281, "ed": 2291, "name": "p-ERK1 / 2"}
+{"seq": "T19", "typ": "Test", "st": 2609, "ed": 2619, "name": "p-ERK1 / 2"}
+{"seq": "T20", "typ": "Test", "st": 3585, "ed": 3595, "name": "p-ERK1 / 2"}
+{"seq": "T21", "typ": "Test", "st": 6219, "ed": 6229, "name": "p-ERK1 / 2"}
+{"seq": "T22", "typ": "Test", "st": 6927, "ed": 6937, "name": "p-ERK1 / 2"}
+{"seq": "T23", "typ": "Test", "st": 7154, "ed": 7164, "name": "p-ERK1 / 2"}
+{"seq": "T24", "typ": "Test", "st": 7230, "ed": 7240, "name": "p-ERK1 / 2"}
+{"seq": "T25", "typ": "Test", "st": 7298, "ed": 7308, "name": "p-ERK1 / 2"}
+{"seq": "T26", "typ": "Test", "st": 7391, "ed": 7401, "name": "p-ERK1 / 2"}
+{"seq": "T27", "typ": "Test", "st": 7482, "ed": 7492, "name": "p-ERK1 / 2"}
+{"seq": "T28", "typ": "Test", "st": 8697, "ed": 8707, "name": "p-ERK1 / 2"}
+{"seq": "T29", "typ": "Anatomy", "st": 146, "ed": 152, "name": "ox-LDL"}
+{"seq": "T30", "typ": "Anatomy", "st": 293, "ed": 299, "name": "ox-LDL"}
+{"seq": "T31", "typ": "Anatomy", "st": 477, "ed": 483, "name": "ox-LDL"}
+{"seq": "T32", "typ": "Anatomy", "st": 614, "ed": 620, "name": "ox-LDL"}
+{"seq": "T33", "typ": "Anatomy", "st": 766, "ed": 772, "name": "ox-LDL"}
+{"seq": "T34", "typ": "Anatomy", "st": 1227, "ed": 1233, "name": "ox-LDL"}
+{"seq": "T35", "typ": "Anatomy", "st": 1444, "ed": 1450, "name": "ox-LDL"}
+{"seq": "T36", "typ": "Anatomy", "st": 1468, "ed": 1474, "name": "ox-LDL"}
+{"seq": "T37", "typ": "Anatomy", "st": 1594, "ed": 1600, "name": "ox-LDL"}
+{"seq": "T38", "typ": "Anatomy", "st": 2089, "ed": 2095, "name": "ox-LDL"}
+{"seq": "T39", "typ": "Anatomy", "st": 2336, "ed": 2342, "name": "ox-LDL"}
+{"seq": "T40", "typ": "Anatomy", "st": 2364, "ed": 2370, "name": "ox-LDL"}
+{"seq": "T41", "typ": "Anatomy", "st": 2730, "ed": 2736, "name": "ox-LDL"}
+{"seq": "T42", "typ": "Anatomy", "st": 3308, "ed": 3314, "name": "ox-LDL"}
+{"seq": "T43", "typ": "Anatomy", "st": 3444, "ed": 3450, "name": "ox-LDL"}
+{"seq": "T44", "typ": "Anatomy", "st": 4013, "ed": 4019, "name": "ox-LDL"}
+{"seq": "T45", "typ": "Anatomy", "st": 4036, "ed": 4042, "name": "ox-LDL"}
+{"seq": "T46", "typ": "Anatomy", "st": 4118, "ed": 4124, "name": "ox-LDL"}
+{"seq": "T47", "typ": "Anatomy", "st": 4838, "ed": 4844, "name": "ox-LDL"}
+{"seq": "T48", "typ": "Anatomy", "st": 4883, "ed": 4889, "name": "ox-LDL"}
+{"seq": "T49", "typ": "Anatomy", "st": 4911, "ed": 4917, "name": "ox-LDL"}
+{"seq": "T50", "typ": "Anatomy", "st": 5024, "ed": 5030, "name": "ox-LDL"}
+{"seq": "T51", "typ": "Anatomy", "st": 5063, "ed": 5069, "name": "ox-LDL"}
+{"seq": "T52", "typ": "Anatomy", "st": 5121, "ed": 5127, "name": "ox-LDL"}
+{"seq": "T53", "typ": "Anatomy", "st": 5164, "ed": 5170, "name": "ox-LDL"}
+{"seq": "T54", "typ": "Anatomy", "st": 5240, "ed": 5246, "name": "ox-LDL"}
+{"seq": "T55", "typ": "Anatomy", "st": 5481, "ed": 5487, "name": "ox-LDL"}
+{"seq": "T56", "typ": "Anatomy", "st": 5729, "ed": 5735, "name": "ox-LDL"}
+{"seq": "T57", "typ": "Anatomy", "st": 5979, "ed": 5985, "name": "ox-LDL"}
+{"seq": "T58", "typ": "Anatomy", "st": 5993, "ed": 5999, "name": "ox-LDL"}
+{"seq": "T59", "typ": "Anatomy", "st": 6183, "ed": 6189, "name": "ox-LDL"}
+{"seq": "T60", "typ": "Anatomy", "st": 6260, "ed": 6266, "name": "ox-LDL"}
+{"seq": "T61", "typ": "Anatomy", "st": 6565, "ed": 6571, "name": "ox-LDL"}
+{"seq": "T62", "typ": "Anatomy", "st": 6761, "ed": 6767, "name": "ox-LDL"}
+{"seq": "T63", "typ": "Anatomy", "st": 6775, "ed": 6781, "name": "ox-LDL"}
+{"seq": "T64", "typ": "Anatomy", "st": 7653, "ed": 7659, "name": "ox-LDL"}
+{"seq": "T65", "typ": "Anatomy", "st": 7976, "ed": 7982, "name": "ox-LDL"}
+{"seq": "T66", "typ": "Anatomy", "st": 7990, "ed": 7996, "name": "ox-LDL"}
+{"seq": "T67", "typ": "Anatomy", "st": 8657, "ed": 8663, "name": "ox-LDL"}
+{"seq": "T68", "typ": "Anatomy", "st": 9003, "ed": 9009, "name": "ox-LDL"}
+{"seq": "T69", "typ": "Anatomy", "st": 9169, "ed": 9175, "name": "ox-LDL"}
+{"seq": "T70", "typ": "Anatomy", "st": 9421, "ed": 9427, "name": "ox-LDL"}
+{"seq": "T71", "typ": "Anatomy", "st": 9589, "ed": 9595, "name": "ox-LDL"}
+{"seq": "T72", "typ": "Test", "st": 5739, "ed": 5745, "name": "\u4f4e\u5bc6\u5ea6\u8102\u86cb\u767d"}
+{"seq": "T73", "typ": "Anatomy", "st": 165, "ed": 170, "name": "VSMCs"}
+{"seq": "T74", "typ": "Anatomy", "st": 203, "ed": 208, "name": "VSMCs"}
+{"seq": "T75", "typ": "Anatomy", "st": 780, "ed": 785, "name": "VSMCs"}
+{"seq": "T76", "typ": "Anatomy", "st": 1318, "ed": 1323, "name": "VSMCs"}
+{"seq": "T77", "typ": "Anatomy", "st": 1387, "ed": 1392, "name": "VSMCs"}
+{"seq": "T78", "typ": "Anatomy", "st": 1665, "ed": 1670, "name": "VSMCs"}
+{"seq": "T79", "typ": "Anatomy", "st": 2067, "ed": 2072, "name": "VSMCs"}
+{"seq": "T80", "typ": "Anatomy", "st": 2111, "ed": 2116, "name": "VSMCs"}
+{"seq": "T81", "typ": "Anatomy", "st": 2399, "ed": 2404, "name": "VSMCs"}
+{"seq": "T82", "typ": "Anatomy", "st": 2434, "ed": 2439, "name": "VSMCs"}
+{"seq": "T83", "typ": "Anatomy", "st": 2713, "ed": 2718, "name": "VSMCs"}
+{"seq": "T84", "typ": "Anatomy", "st": 3037, "ed": 3042, "name": "VSMCs"}
+{"seq": "T85", "typ": "Anatomy", "st": 3223, "ed": 3228, "name": "VSMCs"}
+{"seq": "T86", "typ": "Anatomy", "st": 3320, "ed": 3325, "name": "VSMCs"}
+{"seq": "T87", "typ": "Anatomy", "st": 3885, "ed": 3890, "name": "VSMCs"}
+{"seq": "T88", "typ": "Anatomy", "st": 4176, "ed": 4181, "name": "VSMCs"}
+{"seq": "T89", "typ": "Anatomy", "st": 4304, "ed": 4309, "name": "VSMCs"}
+{"seq": "T90", "typ": "Anatomy", "st": 4848, "ed": 4853, "name": "VSMCs"}
+{"seq": "T91", "typ": "Anatomy", "st": 5034, "ed": 5039, "name": "VSMCs"}
+{"seq": "T92", "typ": "Anatomy", "st": 6147, "ed": 6152, "name": "VSMCs"}
+{"seq": "T93", "typ": "Anatomy", "st": 8051, "ed": 8056, "name": "VSMCs"}
+{"seq": "T94", "typ": "Anatomy", "st": 8173, "ed": 8178, "name": "VSMCs"}
+{"seq": "T95", "typ": "Anatomy", "st": 8254, "ed": 8259, "name": "VSMCs"}
+{"seq": "T96", "typ": "Anatomy", "st": 8612, "ed": 8617, "name": "VSMCs"}
+{"seq": "T97", "typ": "Anatomy", "st": 8675, "ed": 8680, "name": "VSMCs"}
+{"seq": "T98", "typ": "Anatomy", "st": 8902, "ed": 8907, "name": "VSMCs"}
+{"seq": "T99", "typ": "Anatomy", "st": 8947, "ed": 8952, "name": "VSMCs"}
+{"seq": "T100", "typ": "Anatomy", "st": 8969, "ed": 8974, "name": "VSMCs"}
+{"seq": "T101", "typ": "Anatomy", "st": 9015, "ed": 9020, "name": "VSMCs"}
+{"seq": "T102", "typ": "Anatomy", "st": 9057, "ed": 9062, "name": "VSMCs"}
+{"seq": "T103", "typ": "Anatomy", "st": 9159, "ed": 9164, "name": "VSMCs"}
+{"seq": "T104", "typ": "Anatomy", "st": 9356, "ed": 9361, "name": "VSMCs"}
+{"seq": "T105", "typ": "Anatomy", "st": 9433, "ed": 9438, "name": "VSMCs"}
+{"seq": "T106", "typ": "Anatomy", "st": 9528, "ed": 9533, "name": "VSMCs"}
+{"seq": "T107", "typ": "Anatomy", "st": 9599, "ed": 9604, "name": "VSMCs"}
+{"seq": "T108", "typ": "Anatomy", "st": 9694, "ed": 9699, "name": "VSMCs"}
+{"seq": "T109", "typ": "Disease", "st": 3101, "ed": 3106, "name": "\u5fc3\u8840\u7ba1\u75be\u75c5"}
+{"seq": "T110", "typ": "Disease", "st": 8319, "ed": 8324, "name": "\u5fc3\u8840\u7ba1\u75be\u75c5"}
+{"seq": "T111", "typ": "Disease", "st": 8369, "ed": 8374, "name": "\u5fc3\u8840\u7ba1\u75be\u75c5"}
+{"seq": "T112", "typ": "Test", "st": 445, "ed": 450, "name": "\u03b1-SMA"}
+{"seq": "T113", "typ": "Test", "st": 555, "ed": 560, "name": "\u03b1-SMA"}
+{"seq": "T114", "typ": "Test", "st": 701, "ed": 706, "name": "\u03b1-SMA"}
+{"seq": "T115", "typ": "Test", "st": 1979, "ed": 1984, "name": "\u03b1-SMA"}
+{"seq": "T116", "typ": "Test", "st": 2218, "ed": 2223, "name": "\u03b1-SMA"}
+{"seq": "T117", "typ": "Test", "st": 2569, "ed": 2574, "name": "\u03b1-SMA"}
+{"seq": "T118", "typ": "Test", "st": 3693, "ed": 3698, "name": "\u03b1-SMA"}
+{"seq": "T119", "typ": "Test", "st": 6199, "ed": 6204, "name": "\u03b1-SMA"}
+{"seq": "T120", "typ": "Test", "st": 6287, "ed": 6292, "name": "\u03b1-SMA"}
+{"seq": "T121", "typ": "Test", "st": 7030, "ed": 7035, "name": "\u03b1-SMA"}
+{"seq": "T122", "typ": "Test", "st": 7170, "ed": 7175, "name": "\u03b1-SMA"}
+{"seq": "T123", "typ": "Test", "st": 7248, "ed": 7253, "name": "\u03b1-SMA"}
+{"seq": "T124", "typ": "Test", "st": 7316, "ed": 7321, "name": "\u03b1-SMA"}
+{"seq": "T125", "typ": "Test", "st": 7409, "ed": 7414, "name": "\u03b1-SMA"}
+{"seq": "T126", "typ": "Test", "st": 7498, "ed": 7503, "name": "\u03b1-SMA"}
+{"seq": "T127", "typ": "Test", "st": 8723, "ed": 8728, "name": "\u03b1-SMA"}
+{"seq": "T128", "typ": "Test", "st": 9109, "ed": 9114, "name": "\u03b1-SMA"}
+{"seq": "T129", "typ": "Test", "st": 588, "ed": 592, "name": "PCNA"}
+{"seq": "T130", "typ": "Test", "st": 732, "ed": 736, "name": "PCNA"}
+{"seq": "T131", "typ": "Test", "st": 1949, "ed": 1953, "name": "PCNA"}
+{"seq": "T132", "typ": "Test", "st": 2293, "ed": 2297, "name": "PCNA"}
+{"seq": "T133", "typ": "Test", "st": 2621, "ed": 2625, "name": "PCNA"}
+{"seq": "T134", "typ": "Test", "st": 3616, "ed": 3620, "name": "PCNA"}
+{"seq": "T135", "typ": "Test", "st": 6230, "ed": 6234, "name": "PCNA"}
+{"seq": "T136", "typ": "Test", "st": 6318, "ed": 6322, "name": "PCNA"}
+{"seq": "T137", "typ": "Test", "st": 6981, "ed": 6985, "name": "PCNA"}
+{"seq": "T138", "typ": "Test", "st": 7165, "ed": 7169, "name": "PCNA"}
+{"seq": "T139", "typ": "Test", "st": 7242, "ed": 7246, "name": "PCNA"}
+{"seq": "T140", "typ": "Test", "st": 7310, "ed": 7314, "name": "PCNA"}
+{"seq": "T141", "typ": "Test", "st": 7403, "ed": 7407, "name": "PCNA"}
+{"seq": "T142", "typ": "Test", "st": 7493, "ed": 7497, "name": "PCNA"}
+{"seq": "T143", "typ": "Test", "st": 8713, "ed": 8717, "name": "PCNA"}
+{"seq": "T144", "typ": "Test", "st": 9096, "ed": 9100, "name": "PCNA"}
+{"seq": "T145", "typ": "Test", "st": 380, "ed": 384, "name": "Mfn2"}
+{"seq": "T146", "typ": "Test", "st": 548, "ed": 552, "name": "Mfn2"}
+{"seq": "T147", "typ": "Test", "st": 694, "ed": 698, "name": "Mfn2"}
+{"seq": "T148", "typ": "Test", "st": 1832, "ed": 1836, "name": "Mfn2"}
+{"seq": "T149", "typ": "Test", "st": 2209, "ed": 2213, "name": "Mfn2"}
+{"seq": "T150", "typ": "Test", "st": 2560, "ed": 2564, "name": "Mfn2"}
+{"seq": "T151", "typ": "Test", "st": 3535, "ed": 3539, "name": "Mfn2"}
+{"seq": "T152", "typ": "Test", "st": 6192, "ed": 6196, "name": "Mfn2"}
+{"seq": "T153", "typ": "Test", "st": 6280, "ed": 6284, "name": "Mfn2"}
+{"seq": "T154", "typ": "Test", "st": 6830, "ed": 6834, "name": "Mfn2"}
+{"seq": "T155", "typ": "Test", "st": 7149, "ed": 7153, "name": "Mfn2"}
+{"seq": "T156", "typ": "Test", "st": 7224, "ed": 7228, "name": "Mfn2"}
+{"seq": "T157", "typ": "Test", "st": 7292, "ed": 7296, "name": "Mfn2"}
+{"seq": "T158", "typ": "Test", "st": 7385, "ed": 7389, "name": "Mfn2"}
+{"seq": "T159", "typ": "Test", "st": 7477, "ed": 7481, "name": "Mfn2"}
+{"seq": "T160", "typ": "Test", "st": 9442, "ed": 9446, "name": "Mfn2"}
+{"seq": "T161", "typ": "Test", "st": 9462, "ed": 9466, "name": "Mfn2"}
+{"seq": "T162", "typ": "Test", "st": 9495, "ed": 9499, "name": "Mfn2"}
+{"seq": "T163", "typ": "Test", "st": 9562, "ed": 9566, "name": "Mfn2"}
+{"seq": "T164", "typ": "Disease", "st": 3161, "ed": 3165, "name": "\u51a0\u5fc3 \u75c5"}
+{"seq": "T165", "typ": "Test", "st": 457, "ed": 460, "name": "OPN"}
+{"seq": "T166", "typ": "Test", "st": 593, "ed": 596, "name": "OPN"}
+{"seq": "T167", "typ": "Test", "st": 739, "ed": 742, "name": "OPN"}
+{"seq": "T168", "typ": "Test", "st": 2003, "ed": 2006, "name": "OPN"}
+{"seq": "T169", "typ": "Test", "st": 2303, "ed": 2306, "name": "OPN"}
+{"seq": "T170", "typ": "Test", "st": 3708, "ed": 3711, "name": "OPN"}
+{"seq": "T171", "typ": "Test", "st": 6237, "ed": 6240, "name": "OPN"}
+{"seq": "T172", "typ": "Test", "st": 6325, "ed": 6328, "name": "OPN"}
+{"seq": "T173", "typ": "Test", "st": 7064, "ed": 7067, "name": "OPN"}
+{"seq": "T174", "typ": "Test", "st": 7178, "ed": 7181, "name": "OPN"}
+{"seq": "T175", "typ": "Test", "st": 7258, "ed": 7261, "name": "OPN"}
+{"seq": "T176", "typ": "Test", "st": 7324, "ed": 7327, "name": "OPN"}
+{"seq": "T177", "typ": "Test", "st": 7418, "ed": 7421, "name": "OPN"}
+{"seq": "T178", "typ": "Test", "st": 7504, "ed": 7507, "name": "OPN"}
+{"seq": "T179", "typ": "Test", "st": 8735, "ed": 8738, "name": "OPN"}
+{"seq": "T180", "typ": "Test", "st": 9121, "ed": 9124, "name": "OPN"}
+{"seq": "T181", "typ": "Anatomy", "st": 133, "ed": 135, "name": "\u777e\u916e"}
+{"seq": "T182", "typ": "Anatomy", "st": 136, "ed": 145, "name": "\u6c27\u5316\u578b\u4f4e\u5bc6\u5ea6\u8102\u86cb\u767d"}
+{"seq": "T183", "typ": "Anatomy", "st": 157, "ed": 164, "name": "\u8840\u7ba1\u5e73\u6ed1\u808c\u7ec6\u80de"}
+{"seq": "T184", "typ": "Test", "st": 368, "ed": 379, "name": "\u7ebf\u7c92\u4f53\u878d\u5408\u7d20 2 \u86cb\u767d"}
+{"seq": "T185", "typ": "Test", "st": 386, "ed": 407, "name": "\u78f7\u9178\u5316\u7ec6\u80de\u5916\u4fe1\u53f7\u8c03\u8282\u6fc0\u9176 1 / 2 \u86cb\u767d"}
+{"seq": "T186", "typ": "Test", "st": 420, "ed": 428, "name": "\u589e\u6b96\u7ec6\u80de\u6838 \u6297\u539f"}
+{"seq": "T187", "typ": "Test", "st": 435, "ed": 444, "name": "\u03b1-\u5e73\u6ed1\u808c\u808c\u52a8\u86cb\u767d"}
+{"seq": "T188", "typ": "Test", "st": 452, "ed": 456, "name": "\u9aa8\u6865\u86cb\u767d"}
+{"seq": "T189", "typ": "Anatomy", "st": 2999, "ed": 3006, "name": "\u8840\u7ba1\u5e73\u6ed1\u808c\u7ec6\u80de"}
+{"seq": "T190", "typ": "Disease", "st": 3097, "ed": 3100, "name": "\u9ad8\u8840\u538b"}
+{"seq": "T191", "typ": "Disease", "st": 3143, "ed": 3147, "name": "\u8179\u578b\u80a5\u80d6"}
+{"seq": "T192", "typ": "Disease", "st": 3156, "ed": 3159, "name": "\u9ad8\u8840\u538b"}
+{"seq": "T193", "typ": "Test", "st": 3179, "ed": 3181, "name": "\u777e\u916e"}
+{"seq": "T194", "typ": "Anatomy", "st": 3193, "ed": 3197, "name": "\u5185\u76ae\u7ec6\u80de"}
+{"seq": "T195", "typ": "Test", "st": 3215, "ed": 3218, "name": "\u777e \u916e"}
+{"seq": "T196", "typ": "Test", "st": 3258, "ed": 3260, "name": "\u777e\u916e"}
+{"seq": "T197", "typ": "Anatomy", "st": 3261, "ed": 3271, "name": "\u6c27\u5316\u578b\u4f4e\u5bc6\u5ea6\u8102\u86cb \u767d"}
+{"seq": "T198", "typ": "Anatomy", "st": 3400, "ed": 3404, "name": "VSMC"}
+{"seq": "T199", "typ": "Anatomy", "st": 3768, "ed": 3772, "name": "VSMC"}
+{"seq": "T200", "typ": "Anatomy", "st": 4927, "ed": 4929, "name": "\u777e\u916e"}
+{"seq": "T201", "typ": "Anatomy", "st": 4970, "ed": 4972, "name": "\u777e\u916e"}
+{"seq": "T202", "typ": "Anatomy", "st": 4989, "ed": 4991, "name": "\u777e\u916e"}
+{"seq": "T203", "typ": "Anatomy", "st": 5020, "ed": 5022, "name": "\u777e\u916e"}
+{"seq": "T204", "typ": "Anatomy", "st": 5137, "ed": 5139, "name": "\u777e\u916e"}
+{"seq": "T205", "typ": "Test_Value", "st": 227, "ed": 237, "name": "50 \u03bcg / ml"}
+{"seq": "T206", "typ": "Test_Value", "st": 256, "ed": 277, "name": "5\u00d710-8\u6216 5\u00d710-7mol / L"}
+{"seq": "T207", "typ": "Test", "st": 278, "ed": 280, "name": "\u777e\u916e"}
+{"seq": "T208", "typ": "Test_Value", "st": 282, "ed": 292, "name": "50 \u03bcg / ml"}
+{"seq": "T209", "typ": "Test_Value", "st": 565, "ed": 567, "name": "\u964d\u4f4e"}
+{"seq": "T210", "typ": "Test_Value", "st": 599, "ed": 601, "name": "\u589e\u52a0"}
+{"seq": "T211", "typ": "Anatomy", "st": 761, "ed": 763, "name": "\u777e\u916e"}
+{"seq": "T212", "typ": "Test", "st": 3355, "ed": 3357, "name": "\u777e\u916e"}
+{"seq": "T213", "typ": "Duration", "st": 4098, "ed": 4102, "name": "12 h"}
+{"seq": "T214", "typ": "Anatomy", "st": 69, "ed": 71, "name": "\u777e\u916e"}
+{"seq": "T215", "typ": "Anatomy", "st": 75, "ed": 82, "name": "\u8840\u7ba1\u5e73\u6ed1\u808c\u7ec6\u80de"}
+{"seq": "T216", "typ": "Reason", "st": 3132, "ed": 3140, "name": "\u5f02\u5e38\u7684\u777e\u916e \u6c34\u5e73"}
+{"seq": "T217", "typ": "Disease", "st": 8087, "ed": 8094, "name": "\u8840\u7ba1\u589e\u751f\u6027\u75be\u75c5"}
+{"seq": "T218", "typ": "Reason", "st": 8078, "ed": 8086, "name": "\u589e\u6b96 /\u51cb\u4ea1\u5931\u8861"}
+{"seq": "T219", "typ": "Test", "st": 6097, "ed": 6099, "name": "\u777e\u916e"}
+{"seq": "T220", "typ": "Test_Value", "st": 6205, "ed": 6209, "name": "\u8868\u8fbe\u964d\u4f4e"}
+{"seq": "T221", "typ": "Test_Value", "st": 6241, "ed": 6245, "name": "\u8868\u8fbe\u589e\u52a0"}
+{"seq": "T222", "typ": "Test", "st": 6118, "ed": 6120, "name": "\u777e\u916e"}
+{"seq": "T223", "typ": "Test", "st": 6143, "ed": 6145, "name": "\u777e\u916e"}
+{"seq": "T224", "typ": "Test_Value", "st": 6295, "ed": 6297, "name": "\u589e\u52a0"}
+{"seq": "T225", "typ": "Test_Value", "st": 6331, "ed": 6333, "name": "\u964d\u4f4e"}
+{"seq": "T226", "typ": "Reason", "st": 8138, "ed": 8141, "name": "\u9ad8\u8840\u538b"}
+{"seq": "T227", "typ": "Reason", "st": 8108, "ed": 8112, "name": "\u708e\u75c7\u56e0\u5b50"}
+{"seq": "T228", "typ": "Reason", "st": 8113, "ed": 8117, "name": "\u751f\u957f\u56e0\u5b50"}
+{"seq": "T229", "typ": "Reason", "st": 8118, "ed": 8122, "name": "\u795e\u7ecf\u9012\u8d28"}
+{"seq": "T230", "typ": "Reason", "st": 8123, "ed": 8132, "name": "\u5f02\u5e38\u7684\u8840\u6d41 \u526a\u5207\u529b"}
+{"seq": "T231", "typ": "Reason", "st": 8142, "ed": 8145, "name": "\u9ad8\u8840\u8102"}
+{"seq": "T232", "typ": "Anatomy", "st": 8206, "ed": 8213, "name": "\u7ec6\u80de\u5916\u57fa\u8d28\u86cb\u767d"}
+{"seq": "T233", "typ": "Anatomy", "st": 8219, "ed": 8221, "name": "\u8102\u8d28"}
+{"seq": "T234", "typ": "Anatomy", "st": 8224, "ed": 8228, "name": "\u6ce1\u6cab\u7ec6\u80de"}
+{"seq": "T235", "typ": "Reason", "st": 8355, "ed": 8365, "name": "\u8fc7\u4f4e\u6216\u8fc7\u9ad8\u7684\u777e\u916e\u6c34\u5e73"}
+{"seq": "T236", "typ": "Test", "st": 8306, "ed": 8310, "name": "\u777e\u916e\u6c34\u5e73"}
+{"seq": "T237", "typ": "Test_Value", "st": 8310, "ed": 8312, "name": "\u8f83\u4f4e"}
+{"seq": "T238", "typ": "Test_Value", "st": 8313, "ed": 8315, "name": "\u8f83\u9ad8"}
+{"seq": "T239", "typ": "Disease", "st": 8334, "ed": 8337, "name": "\u9ad8\u8840\u538b"}
+{"seq": "T240", "typ": "Disease", "st": 8338, "ed": 8341, "name": "\u7cd6\u5c3f\u75c5"}
+{"seq": "T241", "typ": "Disease", "st": 8344, "ed": 8346, "name": "\u80a5\u80d6"}
+{"seq": "T242", "typ": "Anatomy", "st": 8411, "ed": 8413, "name": "\u777e\u916e"}
+{"seq": "T243", "typ": "Anatomy", "st": 8416, "ed": 8426, "name": "\u5185\u76ae\u578b\u4e00\u6c27\u5316\u6c2e\u5408 \u9176"}
+{"seq": "T244", "typ": "Anatomy", "st": 8435, "ed": 8439, "name": "\u5185\u76ae\u7ec6\u80de"}
+{"seq": "T245", "typ": "Anatomy", "st": 8427, "ed": 8431, "name": "eNOS"}
+{"seq": "T246", "typ": "Anatomy", "st": 8455, "ed": 8459, "name": "\u5355\u6838\u7ec6\u80de"}
+{"seq": "T247", "typ": "Anatomy", "st": 8460, "ed": 8463, "name": "\u8840\u5c0f\u677f"}
+{"seq": "T248", "typ": "Anatomy", "st": 8464, "ed": 8468, "name": "\u5185\u76ae\u7ec6\u80de"}
+{"seq": "T249", "typ": "Anatomy", "st": 8472, "ed": 8474, "name": "\u777e\u916e"}
+{"seq": "T250", "typ": "Anatomy", "st": 8479, "ed": 8483, "name": "\u5185\u76ae\u7ec6\u80de"}
+{"seq": "T251", "typ": "Anatomy", "st": 8484, "ed": 8493, "name": "ERK 1 / 2"}
+{"seq": "T252", "typ": "Anatomy", "st": 8514, "ed": 8518, "name": "\u5185\u76ae\u7ec6\u80de"}
+{"seq": "T253", "typ": "Test", "st": 8533, "ed": 8535, "name": "\u777e\u916e"}
+{"seq": "T254", "typ": "Test", "st": 8541, "ed": 8544, "name": "\u8102\u80aa\u9178"}
+{"seq": "T255", "typ": "Reason", "st": 8574, "ed": 8580, "name": "\u6162\u6027\u708e\u75c7\u72b6\u6001"}
+{"seq": "T256", "typ": "Test", "st": 8588, "ed": 8590, "name": "\u777e\u916e"}
+{"seq": "T257", "typ": "Anatomy", "st": 8765, "ed": 8774, "name": "ERK 1 / 2"}
+{"seq": "T258", "typ": "Test", "st": 8802, "ed": 8807, "name": "\u751f \u957f\u56e0\u5b50"}
+{"seq": "T259", "typ": "Anatomy", "st": 8849, "ed": 8856, "name": "DNA \u805a\u5408\u9176"}
+{"seq": "T260", "typ": "Anatomy", "st": 8931, "ed": 8935, "name": "\u7ec6\u80de\u9aa8\u67b6"}
+{"seq": "T261", "typ": "Test", "st": 9049, "ed": 9051, "name": "\u777e\u916e"}
+{"seq": "T262", "typ": "Anatomy", "st": 9079, "ed": 9093, "name": "p-ERK 1 / 2 \u86cb\u767d"}
+{"seq": "T263", "typ": "Test", "st": 9135, "ed": 9137, "name": "\u777e\u916e"}
+{"seq": "T264", "typ": "Anatomy", "st": 9153, "ed": 9155, "name": "\u777e\u916e"}
+{"seq": "T265", "typ": "Anatomy", "st": 9282, "ed": 9290, "name": "\u539f\u764c\u57fa\u56e0 ras"}
+{"seq": "T266", "typ": "Test", "st": 9456, "ed": 9458, "name": "\u777e\u916e"}
+{"seq": "T267", "typ": "Test", "st": 9485, "ed": 9487, "name": "\u777e\u916e"}
+{"seq": "T268", "typ": "Test", "st": 9584, "ed": 9586, "name": "\u777e\u916e"}
+{"seq": "T269", "typ": "Test", "st": 9619, "ed": 9621, "name": "\u777e\u916e"}
+{"seq": "T270", "typ": "Test", "st": 9681, "ed": 9683, "name": "\u777e\u916e"}
+{"seq": "T271", "typ": "Test", "st": 8546, "ed": 8550, "name": "\u7518\u6cb9\u4e09\u916f"}
+{"seq": "T272", "typ": "Test", "st": 218, "ed": 224, "name": "ox-LDL"}
+{"seq": "T273", "typ": "Anatomy", "st": 8919, "ed": 8924, "name": "\u03b1-SMA"}
+{"seq": "T274", "typ": "Test", "st": 429, "ed": 433, "name": "PCNA"}
+{"seq": "T275", "typ": "Anatomy", "st": 8842, "ed": 8846, "name": "PCNA"}
+{"seq": "T276", "typ": "Anatomy", "st": 801, "ed": 805, "name": "Mfn2"}
+{"seq": "T277", "typ": "Anatomy", "st": 9197, "ed": 9201, "name": "Mfn2"}
+{"seq": "T278", "typ": "Anatomy", "st": 9238, "ed": 9242, "name": "Mfn2"}
+{"seq": "T279", "typ": "Anatomy", "st": 9276, "ed": 9280, "name": "Mfn2"}
+{"seq": "T280", "typ": "Anatomy", "st": 9395, "ed": 9399, "name": "Mfn2"}
+{"seq": "T281", "typ": "Anatomy", "st": 9686, "ed": 9690, "name": "Mfn2"}
+{"seq": "T282", "typ": "Anatomy", "st": 8448, "ed": 8451, "name": "\u8102\u591a\u7cd6"}
+{"seq": "T283", "typ": "Anatomy", "st": 8959, "ed": 8962, "name": "OPN"}
+{"seq": "T284", "typ": "Reason", "st": 8146, "ed": 8149, "name": "\u9ad8\u8840\u7cd6"}
+{"seq": "T285", "typ": "Test", "st": 252, "ed": 254, "name": "\u777e\u916e"}
+{"seq": "T286", "typ": "Test", "st": 630, "ed": 632, "name": "\u777e\u916e"}
+{"seq": "T287", "typ": "Anatomy", "st": 809, "ed": 817, "name": "ERK1 / 2"}
+{"seq": "T288", "typ": "Disease", "st": 3084, "ed": 3096, "name": "\u8840\u7ba1 \u4ecb\u5165\u6cbb\u7597\u672f\u540e\u518d\u72ed\u7a84"}
+{"seq": "T289", "typ": "Test", "st": 4047, "ed": 4049, "name": "\u777e\u916e"}
+{"seq": "T290", "typ": "Test", "st": 4092, "ed": 4094, "name": "\u777e\u916e"}
+{"seq": "T291", "typ": "Test", "st": 4131, "ed": 4133, "name": "\u777e\u916e"}

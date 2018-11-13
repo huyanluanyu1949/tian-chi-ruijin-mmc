@@ -102,3 +102,15 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+train2/
+tianchi-ruijin/
+submit20181108/
+submit20181109/
+validate/
+abc.sort.txt
+ruijin_round1_*
+submit
+submit_b
+
+

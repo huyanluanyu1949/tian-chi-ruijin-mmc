@@ -1,0 +1,22 @@
+{"seq": "T1", "typ": "Disease", "st": 186, "ed": 192, "name": "2 \u578b\u7cd6\u5c3f\u75c5"}
+{"seq": "T2", "typ": "Disease", "st": 77, "ed": 82, "name": "\u5fc3\u8840\u7ba1\u75be\u75c5"}
+{"seq": "T3", "typ": "Reason", "st": 102, "ed": 108, "name": "\u52a8\u8109\u7ca5\u6837\u786c\u5316"}
+{"seq": "T4", "typ": "Disease", "st": 124, "ed": 129, "name": "\u4ee3\u8c22\u7efc\u5408\u5f81"}
+{"seq": "T5", "typ": "Disease", "st": 174, "ed": 180, "name": "\u4ee3 \u8c22\u7efc\u5408\u5f81"}
+{"seq": "T6", "typ": "Disease", "st": 341, "ed": 346, "name": "\u5fc3\u8840\u7ba1\u75be\u75c5"}
+{"seq": "T7", "typ": "Test", "st": 436, "ed": 440, "name": "\u7518\u6cb9\u4e09\u916f"}
+{"seq": "T8", "typ": "Test", "st": 441, "ed": 443, "name": "\u8170\u56f4"}
+{"seq": "T9", "typ": "Test", "st": 472, "ed": 476, "name": "\u7518\u6cb9\u4e09\u916f"}
+{"seq": "T10", "typ": "Test", "st": 477, "ed": 479, "name": "\u8170\u56f4"}
+{"seq": "T11", "typ": "Reason", "st": 228, "ed": 245, "name": "\u5176 \u591a\u4e2a\u5355\u6838\u82f7\u9178\u591a\u6001\u6027(SNPs)"}
+{"seq": "T12", "typ": "Reason", "st": 293, "ed": 297, "name": "SNPs"}
+{"seq": "T13", "typ": "Reason", "st": 39, "ed": 50, "name": "PPARs \u57fa\u56e0\u591a\u6001\u6027"}
+{"seq": "T14", "typ": "Symptom", "st": 51, "ed": 59, "name": "\u9ad8\u7518\u6cb9\u4e09\u916f\u6027\u8170\u56f4"}
+{"seq": "T15", "typ": "Disease", "st": 109, "ed": 114, "name": "\u5fc3\u8840\u7ba1\u4e8b\u4ef6"}
+{"seq": "T16", "typ": "Symptom", "st": 153, "ed": 157, "name": "\u8179\u578b\u80a5\u80d6"}
+{"seq": "T17", "typ": "Reason", "st": 162, "ed": 170, "name": "\u9ad8\u7518\u6cb9\u4e09\u916f\u6027\u8170\u56f4"}
+{"seq": "T18", "typ": "Disease", "st": 193, "ed": 196, "name": "\u5fc3\u8840\u7ba1"}
+{"seq": "T19", "typ": "Reason", "st": 216, "ed": 227, "name": "PPARs \u57fa\u56e0\u591a\u6001\u6027"}
+{"seq": "T20", "typ": "Reason", "st": 259, "ed": 267, "name": "\u9ad8\u7518\u6cb9\u4e09\u916f\u6027\u8170\u56f4"}
+{"seq": "T21", "typ": "Reason", "st": 323, "ed": 331, "name": "\u9ad8\u7518\u6cb9\u4e09\u916f\u6027\u8170\u56f4"}
+{"seq": "T22", "typ": "Reason", "st": 145, "ed": 152, "name": "\u7518\u6cb9\u4e09\u916f\u589e \u9ad8"}

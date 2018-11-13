@@ -1,0 +1,357 @@
+{"seq": "T1", "typ": "Test", "st": 6353, "ed": 6359, "name": "\u6e38\u79bb\u7532\u72b6\u817a\u7d20"}
+{"seq": "T2", "typ": "Disease", "st": 4728, "ed": 4733, "name": "\u7f3a\u8840\u6027\u5352\u4e2d"}
+{"seq": "T3", "typ": "Disease", "st": 4759, "ed": 4764, "name": "\u7f3a\u8840\u6027\u5352\u4e2d"}
+{"seq": "T4", "typ": "Disease", "st": 4837, "ed": 4842, "name": "\u7f3a\u8840\u6027\u5352\u4e2d"}
+{"seq": "T5", "typ": "Test", "st": 5919, "ed": 5922, "name": "TSH"}
+{"seq": "T6", "typ": "Test", "st": 5958, "ed": 5961, "name": "TSH"}
+{"seq": "T7", "typ": "Test", "st": 5925, "ed": 5928, "name": "FT4"}
+{"seq": "T8", "typ": "Test", "st": 6361, "ed": 6364, "name": "FT4"}
+{"seq": "T9", "typ": "Test", "st": 6377, "ed": 6380, "name": "FT4"}
+{"seq": "T10", "typ": "Test", "st": 5931, "ed": 5934, "name": "TT4"}
+{"seq": "T11", "typ": "Disease", "st": 6056, "ed": 6061, "name": "\u5fc3\u8840\u7ba1\u75be\u75c5"}
+{"seq": "T12", "typ": "Drug", "st": 6264, "ed": 6269, "name": "\u7cd6\u76ae\u8d28\u6fc0\u7d20"}
+{"seq": "T13", "typ": "Anatomy", "st": 332, "ed": 341, "name": "GH-IGF-I\u8f74"}
+{"seq": "T14", "typ": "Test", "st": 1729, "ed": 1734, "name": "IGF-I"}
+{"seq": "T15", "typ": "Anatomy", "st": 2198, "ed": 2203, "name": "IGF-I"}
+{"seq": "T16", "typ": "Test", "st": 2283, "ed": 2288, "name": "IGF-I"}
+{"seq": "T17", "typ": "Test", "st": 6114, "ed": 6119, "name": "IGF-I"}
+{"seq": "T18", "typ": "Test", "st": 6173, "ed": 6178, "name": "IGF-I"}
+{"seq": "T19", "typ": "Test", "st": 3102, "ed": 3105, "name": "\u9aa8\u5bc6\u5ea6"}
+{"seq": "T20", "typ": "Test", "st": 6044, "ed": 6047, "name": "\u9aa8\u5bc6\u5ea6"}
+{"seq": "T21", "typ": "Anatomy", "st": 31, "ed": 39, "name": "\u4e0b\u4e18\u8111-\u5782\u4f53\u524d\u53f6"}
+{"seq": "T22", "typ": "Anatomy", "st": 64, "ed": 71, "name": "\u4e0b\u4e18\u8111- \u5782\u4f53"}
+{"seq": "T23", "typ": "Anatomy", "st": 110, "ed": 120, "name": "CRH-ACTH \u8f74"}
+{"seq": "T24", "typ": "Anatomy", "st": 132, "ed": 136, "name": "\u5782\u4f53\u524d\u53f6"}
+{"seq": "T25", "typ": "Anatomy", "st": 183, "ed": 191, "name": "\u4e0b\u4e18\u8111-\u5782\u4f53\u524d\u53f6"}
+{"seq": "T26", "typ": "Anatomy", "st": 254, "ed": 258, "name": "\u5782\u4f53\u524d\u53f6"}
+{"seq": "T27", "typ": "Anatomy", "st": 344, "ed": 354, "name": "CRH-ACTH \u8f74"}
+{"seq": "T28", "typ": "Anatomy", "st": 1845, "ed": 1853, "name": "\u4e0b\u4e18\u8111-\u5782\u4f53\u524d\u53f6"}
+{"seq": "T29", "typ": "Anatomy", "st": 1872, "ed": 1878, "name": "\u5782\u4f53\u524d\u53f6\u7ec6\u80de"}
+{"seq": "T30", "typ": "Anatomy", "st": 1997, "ed": 1999, "name": "GH"}
+{"seq": "T31", "typ": "Anatomy", "st": 2008, "ed": 2013, "name": "GH \u7ec6\u80de"}
+{"seq": "T32", "typ": "Anatomy", "st": 2073, "ed": 2076, "name": "\u4e0b\u4e18\u8111"}
+{"seq": "T33", "typ": "Anatomy", "st": 2077, "ed": 2080, "name": "\u80c3\u80a0\u9053"}
+{"seq": "T34", "typ": "Anatomy", "st": 2100, "ed": 2104, "name": "GHRH"}
+{"seq": "T35", "typ": "Anatomy", "st": 2106, "ed": 2110, "name": "\u751f\u957f\u6291\u7d20"}
+{"seq": "T36", "typ": "Anatomy", "st": 2111, "ed": 2113, "name": "SS"}
+{"seq": "T37", "typ": "Anatomy", "st": 2118, "ed": 2126, "name": "\u5782\u4f53 GH \u7ec6\u80de"}
+{"seq": "T38", "typ": "Anatomy", "st": 2133, "ed": 2135, "name": "GH"}
+{"seq": "T39", "typ": "Anatomy", "st": 2140, "ed": 2143, "name": "\u80c3\u80a0\u9053"}
+{"seq": "T40", "typ": "Anatomy", "st": 2146, "ed": 2152, "name": "\u80c3\u4fc3\u751f\u957f\u6fc0\u7d20"}
+{"seq": "T41", "typ": "Anatomy", "st": 2167, "ed": 2169, "name": "GH"}
+{"seq": "T42", "typ": "Anatomy", "st": 2175, "ed": 2177, "name": "GH"}
+{"seq": "T43", "typ": "Anatomy", "st": 2189, "ed": 2191, "name": "\u809d\u810f"}
+{"seq": "T44", "typ": "Test_Value", "st": 2221, "ed": 2223, "name": "\u5347\u9ad8"}
+{"seq": "T45", "typ": "Anatomy", "st": 2229, "ed": 2232, "name": "\u5782 \u4f53"}
+{"seq": "T46", "typ": "Anatomy", "st": 2251, "ed": 2253, "name": "\u5782\u4f53"}
+{"seq": "T47", "typ": "Test", "st": 2278, "ed": 2280, "name": "GH"}
+{"seq": "T48", "typ": "Anatomy", "st": 2353, "ed": 2356, "name": "\u4e0b\u4e18\u8111"}
+{"seq": "T49", "typ": "Anatomy", "st": 2369, "ed": 2377, "name": "\u5782\u4f53 GH \u7ec6\u80de"}
+{"seq": "T50", "typ": "Anatomy", "st": 2379, "ed": 2383, "name": "GHRH"}
+{"seq": "T51", "typ": "Anatomy", "st": 2496, "ed": 2505, "name": "GH-IGF-I\u8f74"}
+{"seq": "T52", "typ": "Test_Value", "st": 2614, "ed": 2616, "name": "\u964d\u4f4e"}
+{"seq": "T53", "typ": "Drug", "st": 2775, "ed": 2779, "name": "rhGH"}
+{"seq": "T54", "typ": "Drug", "st": 2766, "ed": 2773, "name": "\u91cd\u7ec4\u4eba\u751f\u957f\u6fc0\u7d20"}
+{"seq": "T55", "typ": "Drug", "st": 2791, "ed": 2794, "name": "\u6027\u6fc0\u7d20"}
+{"seq": "T56", "typ": "Drug", "st": 2808, "ed": 2812, "name": "rhGH"}
+{"seq": "T57", "typ": "Drug", "st": 2838, "ed": 2842, "name": "rhGH"}
+{"seq": "T58", "typ": "Drug", "st": 2844, "ed": 2847, "name": "\u6027\u6fc0\u7d20"}
+{"seq": "T59", "typ": "Drug", "st": 2890, "ed": 2894, "name": "rhGH"}
+{"seq": "T60", "typ": "SideEff", "st": 2909, "ed": 2911, "name": "\u6c34\u80bf"}
+{"seq": "T61", "typ": "SideEff", "st": 2912, "ed": 2917, "name": "\u8155\u7ba1\u7efc\u5408\u5f81"}
+{"seq": "T62", "typ": "SideEff", "st": 2918, "ed": 2921, "name": "\u5173\u8282\u75db"}
+{"seq": "T63", "typ": "Drug", "st": 3005, "ed": 3009, "name": "rhGH"}
+{"seq": "T64", "typ": "Drug", "st": 3054, "ed": 3056, "name": "GH"}
+{"seq": "T65", "typ": "Drug", "st": 3122, "ed": 3126, "name": "rhGH"}
+{"seq": "T66", "typ": "Drug", "st": 3074, "ed": 3078, "name": "rhGH"}
+{"seq": "T67", "typ": "Test", "st": 3089, "ed": 3093, "name": "\u808c \u8089\u91cf"}
+{"seq": "T68", "typ": "Test", "st": 3096, "ed": 3099, "name": "\u4f53\u8102\u91cf"}
+{"seq": "T69", "typ": "Test", "st": 3106, "ed": 3108, "name": "\u8840\u8102"}
+{"seq": "T70", "typ": "SideEff", "st": 3135, "ed": 3137, "name": "\u6c34\u80bf"}
+{"seq": "T71", "typ": "SideEff", "st": 3138, "ed": 3141, "name": "\u5173\u8282\u75db"}
+{"seq": "T72", "typ": "SideEff", "st": 3142, "ed": 3147, "name": "\u8155\u7ba1\u7efc\u5408\u5f81"}
+{"seq": "T73", "typ": "SideEff", "st": 3148, "ed": 3155, "name": "\u7537\u6027\u4e73\u623f \u589e\u751f"}
+{"seq": "T74", "typ": "Test_Value", "st": 3170, "ed": 3172, "name": "\u4e0a\u5347"}
+{"seq": "T75", "typ": "Drug", "st": 3195, "ed": 3199, "name": "rhGH"}
+{"seq": "T76", "typ": "Disease", "st": 3313, "ed": 3319, "name": "GH \u7f3a\u4e4f\u75c7"}
+{"seq": "T77", "typ": "Anatomy", "st": 3337, "ed": 3348, "name": "\u4e0b\u4e18\u8111-\u5782\u4f53-\u80be\u4e0a\u817a\u8f74"}
+{"seq": "T78", "typ": "Anatomy", "st": 3349, "ed": 3352, "name": "HPA"}
+{"seq": "T79", "typ": "Anatomy", "st": 3359, "ed": 3370, "name": "\u4fc3\u80be\u4e0a\u817a\u76ae \u8d28\u91ca\u653e\u6fc0\u7d20"}
+{"seq": "T80", "typ": "Anatomy", "st": 3371, "ed": 3374, "name": "CRH"}
+{"seq": "T81", "typ": "Anatomy", "st": 3392, "ed": 3399, "name": "\u5782\u4f53 \u95e8\u8109\u7cfb\u7edf"}
+{"seq": "T82", "typ": "Anatomy", "st": 3401, "ed": 3405, "name": "\u5782\u4f53\u524d\u53f6"}
+{"seq": "T83", "typ": "Anatomy", "st": 3409, "ed": 3413, "name": "ACTH"}
+{"seq": "T84", "typ": "Test_Value", "st": 3426, "ed": 3428, "name": "\u589e\u9ad8"}
+{"seq": "T85", "typ": "Anatomy", "st": 3431, "ed": 3436, "name": "\u80be\u4e0a\u817a\u76ae\u8d28"}
+{"seq": "T86", "typ": "Anatomy", "st": 3494, "ed": 3499, "name": "HPA \u8f74"}
+{"seq": "T87", "typ": "Anatomy", "st": 3523, "ed": 3528, "name": "HPA \u8f74"}
+{"seq": "T88", "typ": "Anatomy", "st": 3547, "ed": 3552, "name": "HPA \u8f74"}
+{"seq": "T89", "typ": "Anatomy", "st": 3581, "ed": 3586, "name": "HPA \u8f74"}
+{"seq": "T90", "typ": "Anatomy", "st": 3596, "ed": 3601, "name": "HPA \u8f74"}
+{"seq": "T91", "typ": "Anatomy", "st": 3668, "ed": 3673, "name": "HPA \u8f74"}
+{"seq": "T92", "typ": "Test_Value", "st": 3690, "ed": 3692, "name": "\u5347\u9ad8"}
+{"seq": "T93", "typ": "Anatomy", "st": 3695, "ed": 3700, "name": "HPA \u8f74"}
+{"seq": "T94", "typ": "Test", "st": 3740, "ed": 3744, "name": "\u8840\u76ae\u8d28\u9187"}
+{"seq": "T95", "typ": "Test", "st": 3762, "ed": 3773, "name": "24 h \u5e73\u5747\u8840\u76ae\u8d28\u9187"}
+{"seq": "T96", "typ": "Anatomy", "st": 3847, "ed": 3852, "name": "HPA \u8f74"}
+{"seq": "T97", "typ": "Anatomy", "st": 3916, "ed": 3921, "name": "HPA \u8f74"}
+{"seq": "T98", "typ": "Anatomy", "st": 3902, "ed": 3908, "name": "\u6d77\u9a6c\u795e\u7ecf\u7ec6\u80de"}
+{"seq": "T99", "typ": "Anatomy", "st": 3972, "ed": 3977, "name": "\u6d77\u9a6c\u533a\u7ec6\u80de"}
+{"seq": "T100", "typ": "Anatomy", "st": 3996, "ed": 4001, "name": "HPA \u8f74"}
+{"seq": "T101", "typ": "Anatomy", "st": 4024, "ed": 4028, "name": "\u795e\u7ecf\u7ec6\u80de"}
+{"seq": "T102", "typ": "Anatomy", "st": 4034, "ed": 4039, "name": "HPA \u8f74"}
+{"seq": "T103", "typ": "Anatomy", "st": 4054, "ed": 4059, "name": "HPA \u8f74"}
+{"seq": "T104", "typ": "Anatomy", "st": 4076, "ed": 4081, "name": "HPA \u8f74"}
+{"seq": "T105", "typ": "Disease", "st": 4128, "ed": 4130, "name": "\u6291\u90c1"}
+{"seq": "T106", "typ": "Disease", "st": 4131, "ed": 4133, "name": "\u7126\u8651"}
+{"seq": "T107", "typ": "Anatomy", "st": 4220, "ed": 4225, "name": "HPA \u8f74"}
+{"seq": "T108", "typ": "Anatomy", "st": 4246, "ed": 4251, "name": "HPA \u8f74"}
+{"seq": "T109", "typ": "Disease", "st": 4561, "ed": 4570, "name": "\u5782\u4f53\u524d \u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T110", "typ": "Disease", "st": 4580, "ed": 4584, "name": "\u5782\u4f53\u80bf\u7624"}
+{"seq": "T111", "typ": "Reason", "st": 4600, "ed": 4604, "name": "\u8840\u538b\u5347\u9ad8"}
+{"seq": "T112", "typ": "Reason", "st": 4605, "ed": 4609, "name": "\u6297\u51dd\u6cbb\u7597"}
+{"seq": "T113", "typ": "Reason", "st": 4610, "ed": 4612, "name": "\u5916\u4f24"}
+{"seq": "T114", "typ": "Disease", "st": 4616, "ed": 4620, "name": "\u5782\u4f53\u80bf\u7624"}
+{"seq": "T115", "typ": "Reason", "st": 4625, "ed": 4629, "name": "\u7f3a\u8840\u6897\u6b7b"}
+{"seq": "T116", "typ": "Reason", "st": 4630, "ed": 4632, "name": "\u51fa\u8840"}
+{"seq": "T117", "typ": "Anatomy", "st": 4645, "ed": 4648, "name": "\u89c6\u4ea4\u53c9"}
+{"seq": "T118", "typ": "Symptom", "st": 4662, "ed": 4664, "name": "\u5934\u75db"}
+{"seq": "T119", "typ": "Symptom", "st": 4665, "ed": 4671, "name": "\u89c6\u529b\u8fc5\u901f\u4e0b\u964d"}
+{"seq": "T120", "typ": "Symptom", "st": 4673, "ed": 4679, "name": "\u773c\u5916\u808c \u9ebb\u75f9"}
+{"seq": "T121", "typ": "Disease", "st": 4688, "ed": 4694, "name": "\u7f3a\u8840\u6027\u8111\u5352\u4e2d"}
+{"seq": "T122", "typ": "Disease", "st": 4697, "ed": 4705, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T123", "typ": "Disease", "st": 4750, "ed": 4758, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T124", "typ": "Disease", "st": 4483, "ed": 4487, "name": "\u5782\u4f53\u80bf\u7624"}
+{"seq": "T125", "typ": "Disease", "st": 4333, "ed": 4341, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T126", "typ": "Disease", "st": 4302, "ed": 4310, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T127", "typ": "Test", "st": 3782, "ed": 3792, "name": "\u5348\u591c\u8840\u76ae \u8d28\u9187\u6700\u4f4e\u503c"}
+{"seq": "T128", "typ": "Symptom", "st": 4855, "ed": 4859, "name": "\u5168\u8eab\u4e0d\u9002"}
+{"seq": "T129", "typ": "Disease", "st": 4917, "ed": 4925, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T130", "typ": "Symptom", "st": 4998, "ed": 5002, "name": "\u5168\u8eab\u4e0d\u9002"}
+{"seq": "T131", "typ": "Symptom", "st": 5003, "ed": 5005, "name": "\u4e4f\u529b"}
+{"seq": "T132", "typ": "Symptom", "st": 5006, "ed": 5009, "name": "\u7cbe\u795e\u5dee"}
+{"seq": "T133", "typ": "Symptom", "st": 5010, "ed": 5015, "name": "\u60c5 \u7eea\u969c\u788d"}
+{"seq": "T134", "typ": "Symptom", "st": 5016, "ed": 5020, "name": "\u98df\u6b32\u4e0b\u964d"}
+{"seq": "T135", "typ": "Symptom", "st": 5086, "ed": 5088, "name": "\u75b2\u4e4f"}
+{"seq": "T136", "typ": "Symptom", "st": 5089, "ed": 5093, "name": "\u5168\u8eab\u65e0\u529b"}
+{"seq": "T137", "typ": "Symptom", "st": 5094, "ed": 5096, "name": "\u7eb3\u5dee"}
+{"seq": "T138", "typ": "Symptom", "st": 5097, "ed": 5105, "name": "\u808c\u8089\u53ca\u5173 \u8282\u75bc\u75db"}
+{"seq": "T139", "typ": "Symptom", "st": 5112, "ed": 5116, "name": "\u6291\u90c1\u969c\u788d"}
+{"seq": "T140", "typ": "Disease", "st": 5135, "ed": 5147, "name": "\u7ee7\u53d1\u6027\u80be\u4e0a\u817a\u76ae\u8d28\u529f\u80fd\u51cf\u9000"}
+{"seq": "T141", "typ": "Disease", "st": 5148, "ed": 5161, "name": "\u539f\u53d1\u6027\u80be\u4e0a\u817a\u76ae\u8d28\u529f\u80fd\u51cf \u9000"}
+{"seq": "T142", "typ": "Test_Value", "st": 5180, "ed": 5182, "name": "\u964d\u4f4e"}
+{"seq": "T143", "typ": "Anatomy", "st": 5201, "ed": 5215, "name": "\u80be\u7d20-\u8840\u7ba1\u7d27\u5f20\u7d20-\u919b\u56fa\u916e\u7cfb\u7edf"}
+{"seq": "T144", "typ": "Test_Value", "st": 5244, "ed": 5246, "name": "\u964d\u4f4e"}
+{"seq": "T145", "typ": "Disease", "st": 5296, "ed": 5303, "name": "\u7a00\u91ca\u6027\u4f4e\u94a0\u8840\u75c7"}
+{"seq": "T146", "typ": "Symptom", "st": 5333, "ed": 5337, "name": "\u5168\u8eab\u4e0d\u9002"}
+{"seq": "T147", "typ": "Disease", "st": 5354, "ed": 5366, "name": "\u5782\u4f53 ACTH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T148", "typ": "Anatomy", "st": 5391, "ed": 5400, "name": "GH-IGF-I\u8f74"}
+{"seq": "T149", "typ": "Test", "st": 5469, "ed": 5474, "name": "\u8840\u76ae \u8d28\u9187"}
+{"seq": "T150", "typ": "Test_Value", "st": 5493, "ed": 5507, "name": "\u4f4e\u4e8e 83 nmol / L"}
+{"seq": "T151", "typ": "Test_Value", "st": 5517, "ed": 5519, "name": "\u964d\u4f4e"}
+{"seq": "T152", "typ": "Disease", "st": 5531, "ed": 5540, "name": "ACTH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T153", "typ": "Test_Value", "st": 5559, "ed": 5576, "name": "83 ~ 497 nmol / L"}
+{"seq": "T154", "typ": "Test", "st": 5626, "ed": 5636, "name": "\u80f0\u5c9b\u7d20\u4f4e\u8840\u7cd6\u523a\u6fc0\u8bd5\u9a8c"}
+{"seq": "T155", "typ": "Symptom", "st": 5683, "ed": 5685, "name": "\u4e4f\u529b"}
+{"seq": "T156", "typ": "Symptom", "st": 5686, "ed": 5688, "name": "\u6015\u51b7"}
+{"seq": "T157", "typ": "Symptom", "st": 5689, "ed": 5694, "name": "\u8bb0\u5fc6\u529b\u4e0b\u964d"}
+{"seq": "T158", "typ": "Symptom", "st": 5695, "ed": 5697, "name": "\u4fbf\u79d8"}
+{"seq": "T159", "typ": "Symptom", "st": 5698, "ed": 5702, "name": "\u4f53\u91cd\u589e\u52a0"}
+{"seq": "T160", "typ": "Disease", "st": 5807, "ed": 5811, "name": "\u978d\u533a\u5360\u4f4d"}
+{"seq": "T161", "typ": "Disease", "st": 5846, "ed": 5851, "name": "\u4f4e\u94a0\u8840 \u75c7"}
+{"seq": "T162", "typ": "Disease", "st": 5852, "ed": 5865, "name": "\u4e0d\u9002\u5f53 ADH \u5206\u6ccc\u7efc\u5408\u5f81"}
+{"seq": "T163", "typ": "Disease", "st": 5882, "ed": 5888, "name": "\u5927\u7ec6\u80de\u6027\u8d2b\u8840"}
+{"seq": "T164", "typ": "Disease", "st": 5902, "ed": 5912, "name": "\u6301\u7eed\u6027\u9ad8\u80c6\u56fa \u9187\u8840\u75c7"}
+{"seq": "T165", "typ": "Test_Value", "st": 5952, "ed": 5956, "name": "\u4f4e\u4e8e\u6b63\u5e38"}
+{"seq": "T166", "typ": "Test_Value", "st": 5972, "ed": 5976, "name": "\u8f7b\u5ea6\u5347\u9ad8"}
+{"seq": "T167", "typ": "Test_Value", "st": 5977, "ed": 5987, "name": "<10 mU / L"}
+{"seq": "T168", "typ": "Test", "st": 6032, "ed": 6035, "name": "\u808c\u8089\u91cf"}
+{"seq": "T169", "typ": "Test", "st": 6038, "ed": 6041, "name": "\u8102\u80aa\u91cf"}
+{"seq": "T170", "typ": "Anatomy", "st": 6070, "ed": 6072, "name": "GH"}
+{"seq": "T171", "typ": "Disease", "st": 6087, "ed": 6095, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T172", "typ": "Anatomy", "st": 6123, "ed": 6132, "name": "GH-IGF-I\u8f74"}
+{"seq": "T173", "typ": "Anatomy", "st": 6153, "ed": 6162, "name": "GH-IGF-I\u8f74"}
+{"seq": "T174", "typ": "Disease", "st": 6208, "ed": 6216, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T175", "typ": "Drug", "st": 6279, "ed": 6284, "name": "\u7532\u72b6\u817a\u6fc0\u7d20"}
+{"seq": "T176", "typ": "Disease", "st": 6294, "ed": 6299, "name": "\u80be\u4e0a\u817a\u5371\u8c61"}
+{"seq": "T177", "typ": "Drug", "st": 6301, "ed": 6305, "name": "\u7532\u72b6\u817a\u7d20"}
+{"seq": "T178", "typ": "Amount", "st": 6321, "ed": 6341, "name": "6. 25 ~ 12. 5 \u03bcg / d"}
+{"seq": "T179", "typ": "Drug", "st": 6434, "ed": 6436, "name": "GH"}
+{"seq": "T180", "typ": "Drug", "st": 6444, "ed": 6446, "name": "GH"}
+{"seq": "T181", "typ": "Test", "st": 2153, "ed": 2160, "name": "Ghrelin"}
+{"seq": "T182", "typ": "Test", "st": 2254, "ed": 2256, "name": "GH"}
+{"seq": "T183", "typ": "Test_Value", "st": 2292, "ed": 2294, "name": "\u964d\u4f4e"}
+{"seq": "T184", "typ": "Test_Value", "st": 2334, "ed": 2340, "name": "\u4e0b\u964d 14%"}
+{"seq": "T185", "typ": "Test_Value", "st": 2365, "ed": 2367, "name": "\u51cf\u5c11"}
+{"seq": "T186", "typ": "Test", "st": 2417, "ed": 2420, "name": "\u6027\u6fc0\u7d20"}
+{"seq": "T187", "typ": "Test_Value", "st": 2422, "ed": 2424, "name": "\u4e0b\u964d"}
+{"seq": "T188", "typ": "Disease", "st": 2433, "ed": 2437, "name": "\u8425\u517b\u4e0d\u826f"}
+{"seq": "T189", "typ": "Symptom", "st": 2446, "ed": 2454, "name": "\u591c\u95f4\u7761\u7720\u65f6\u95f4\u7f29\u77ed"}
+{"seq": "T190", "typ": "Symptom", "st": 2455, "ed": 2462, "name": "\u65e5\u95f4\u6d3b\u52a8\u91cf\u51cf\u5c11"}
+{"seq": "T191", "typ": "Duration", "st": 3064, "ed": 3068, "name": "27 \u5468"}
+{"seq": "T192", "typ": "Disease", "st": 5316, "ed": 5320, "name": "\u666e\u901a\u611f\u5192"}
+{"seq": "T193", "typ": "Operation", "st": 5812, "ed": 5816, "name": "\u978d\u533a\u624b\u672f"}
+{"seq": "T194", "typ": "Duration", "st": 6345, "ed": 6348, "name": "4 \u5468"}
+{"seq": "T195", "typ": "Anatomy", "st": 3, "ed": 11, "name": "\u4e0b\u4e18\u8111-\u5782\u4f53\u524d\u53f6"}
+{"seq": "T196", "typ": "Anatomy", "st": 2004, "ed": 2006, "name": "\u5782\u4f53"}
+{"seq": "T197", "typ": "Test", "st": 2090, "ed": 2099, "name": "\u751f\u957f\u6fc0\u7d20\u91ca\u653e \u6fc0\u7d20"}
+{"seq": "T198", "typ": "Anatomy", "st": 2542, "ed": 2545, "name": "\u9aa8\u9abc\u808c"}
+{"seq": "T199", "typ": "Test", "st": 2824, "ed": 2827, "name": "\u4f53\u8102\u91cf"}
+{"seq": "T200", "typ": "Test", "st": 2830, "ed": 2837, "name": "\u975e\u8102\u80aa\u4f53 \u8d28\u91cf"}
+{"seq": "T201", "typ": "Test_Value", "st": 2816, "ed": 2818, "name": "\u51cf\u5c11"}
+{"seq": "T202", "typ": "Test_Value", "st": 2828, "ed": 2830, "name": "\u589e\u52a0"}
+{"seq": "T203", "typ": "Test", "st": 2860, "ed": 2864, "name": "\u808c\u8089\u529b\u5ea6"}
+{"seq": "T204", "typ": "Test", "st": 2876, "ed": 2878, "name": "\u808c\u529b"}
+{"seq": "T205", "typ": "Test", "st": 2879, "ed": 2883, "name": "\u8fd0\u52a8\u8010\u529b"}
+{"seq": "T206", "typ": "Test_Value", "st": 3451, "ed": 3453, "name": "\u5347\u9ad8"}
+{"seq": "T207", "typ": "Symptom", "st": 3562, "ed": 3566, "name": "\u5e94\u6fc0\u53cd\u5e94"}
+{"seq": "T208", "typ": "Symptom", "st": 3714, "ed": 3716, "name": "\u5e94\u6fc0"}
+{"seq": "T209", "typ": "Symptom", "st": 3745, "ed": 3749, "name": "\u5e94\u6fc0\u53cd\u5e94"}
+{"seq": "T210", "typ": "Test_Value", "st": 3897, "ed": 3899, "name": "\u5347\u9ad8"}
+{"seq": "T211", "typ": "Test_Value", "st": 3962, "ed": 3964, "name": "\u5347\u9ad8"}
+{"seq": "T212", "typ": "Anatomy", "st": 4021, "ed": 4023, "name": "\u6d77\u9a6c"}
+{"seq": "T213", "typ": "Disease", "st": 4007, "ed": 4018, "name": "\u8001\u9f84\u76f8\u5173\u7684\u8bb0\u5fc6\u529b \u969c\u788d"}
+{"seq": "T214", "typ": "Symptom", "st": 4066, "ed": 4070, "name": "\u5e94\u6fc0\u53cd\u5e94"}
+{"seq": "T215", "typ": "Disease", "st": 4121, "ed": 4126, "name": "\u60c5 \u7eea\u969c\u788d"}
+{"seq": "T216", "typ": "Test", "st": 4184, "ed": 4190, "name": "\u975e\u8102\u80aa\u4f53\u8d28\u91cf"}
+{"seq": "T217", "typ": "Test_Value", "st": 4190, "ed": 4192, "name": "\u51cf\u5c11"}
+{"seq": "T218", "typ": "Test", "st": 4176, "ed": 4180, "name": "\u8179\u8154\u8102\u80aa"}
+{"seq": "T219", "typ": "Test_Value", "st": 4180, "ed": 4183, "name": "\u589e \u52a0"}
+{"seq": "T220", "typ": "Disease", "st": 4352, "ed": 4361, "name": "\u5782\u4f53 \u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T221", "typ": "Anatomy", "st": 4720, "ed": 4724, "name": "\u8111\u524d\u5faa\u73af"}
+{"seq": "T222", "typ": "Anatomy", "st": 4725, "ed": 4728, "name": "\u540e\u5faa\u73af"}
+{"seq": "T223", "typ": "Symptom", "st": 4777, "ed": 4785, "name": "\u5355\u9879\u5782\u4f53\u6fc0\u7d20\u4e0d\u8db3"}
+{"seq": "T224", "typ": "Symptom", "st": 4794, "ed": 4803, "name": "\u591a\u9879\u5782\u4f53 \u6fc0\u7d20\u4e0d\u8db3"}
+{"seq": "T225", "typ": "Disease", "st": 4634, "ed": 4636, "name": "\u80bf\u7624"}
+{"seq": "T226", "typ": "Test", "st": 5073, "ed": 5079, "name": "\u8840\u76ae\u8d28\u9187\u6c34\u5e73"}
+{"seq": "T227", "typ": "Test_Value", "st": 5079, "ed": 5081, "name": "\u964d\u4f4e"}
+{"seq": "T228", "typ": "Symptom", "st": 5225, "ed": 5230, "name": "\u8840\u5bb9\u91cf\u4e0d\u8db3"}
+{"seq": "T229", "typ": "Symptom", "st": 5231, "ed": 5235, "name": "\u9ad8\u94be\u8840\u75c7"}
+{"seq": "T230", "typ": "Test", "st": 5587, "ed": 5591, "name": "\u523a\u6fc0\u8bd5\u9a8c"}
+{"seq": "T231", "typ": "Disease", "st": 5728, "ed": 5737, "name": "\u5782\u4f53\u524d\u53f6 \u6fc0\u7d20\u4e0d\u8db3"}
+{"seq": "T232", "typ": "Test_Value", "st": 5968, "ed": 5970, "name": "\u6b63\u5e38"}
+{"seq": "T233", "typ": "Test_Value", "st": 6035, "ed": 6037, "name": "\u51cf\u5c11"}
+{"seq": "T234", "typ": "Test_Value", "st": 6041, "ed": 6043, "name": "\u589e\u52a0"}
+{"seq": "T235", "typ": "Symptom", "st": 6048, "ed": 6053, "name": "\u4f53 \u8d28\u865a\u5f31"}
+{"seq": "T236", "typ": "Disease", "st": 5664, "ed": 5671, "name": "\u7532\u72b6\u817a\u529f\u80fd\u4f4e\u4e0b"}
+{"seq": "T237", "typ": "Test", "st": 1912, "ed": 1915, "name": "TSH"}
+{"seq": "T238", "typ": "Disease", "st": 5642, "ed": 5650, "name": "TSH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T239", "typ": "Reason", "st": 5651, "ed": 5662, "name": "\u5782\u4f53 TSH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T240", "typ": "Disease", "st": 5752, "ed": 5760, "name": "TSH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T241", "typ": "Disease", "st": 5993, "ed": 6001, "name": "TSH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T242", "typ": "Test", "st": 6252, "ed": 6255, "name": "TSH"}
+{"seq": "T243", "typ": "Anatomy", "st": 96, "ed": 101, "name": "IGF-I"}
+{"seq": "T244", "typ": "Test", "st": 1985, "ed": 1990, "name": "IGF-I"}
+{"seq": "T245", "typ": "Test", "st": 2214, "ed": 2219, "name": "IGF-I"}
+{"seq": "T246", "typ": "Test", "st": 3164, "ed": 3166, "name": "\u8840\u7cd6"}
+{"seq": "T247", "typ": "Anatomy", "st": 82, "ed": 84, "name": "GH"}
+{"seq": "T248", "typ": "Anatomy", "st": 77, "ed": 81, "name": "\u751f\u957f\u6fc0\u7d20"}
+{"seq": "T249", "typ": "Anatomy", "st": 86, "ed": 95, "name": "\u80f0\u5c9b\u7d20\u6837\u751f\u957f\u56e0\u5b50I"}
+{"seq": "T250", "typ": "Reason", "st": 156, "ed": 160, "name": "\u978d\u533a\u80bf\u7624"}
+{"seq": "T251", "typ": "Disease", "st": 170, "ed": 179, "name": "\u5782\u4f53 \u524d\u53f6\u529f\u80fd\u53d7\u635f"}
+{"seq": "T252", "typ": "Disease", "st": 280, "ed": 288, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u4f4e\u4e0b"}
+{"seq": "T253", "typ": "Reason", "st": 161, "ed": 163, "name": "\u7f3a\u8840"}
+{"seq": "T254", "typ": "Reason", "st": 164, "ed": 167, "name": "\u7ea4\u7ef4\u5316"}
+{"seq": "T255", "typ": "Disease", "st": 372, "ed": 380, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T256", "typ": "Test", "st": 1881, "ed": 1885, "name": "\u751f\u957f\u6fc0\u7d20"}
+{"seq": "T257", "typ": "Test", "st": 1886, "ed": 1888, "name": "GH"}
+{"seq": "T258", "typ": "Test", "st": 1891, "ed": 1899, "name": "\u4fc3\u80be\u4e0a\u817a\u76ae\u8d28\u6fc0\u7d20"}
+{"seq": "T259", "typ": "Test", "st": 1900, "ed": 1904, "name": "ACTH"}
+{"seq": "T260", "typ": "Test", "st": 1906, "ed": 1911, "name": "\u4fc3\u7532\u72b6\u817a\u7d20"}
+{"seq": "T261", "typ": "Test", "st": 1936, "ed": 1938, "name": "GH"}
+{"seq": "T262", "typ": "Test", "st": 1941, "ed": 1945, "name": "ACTH"}
+{"seq": "T263", "typ": "Test", "st": 1972, "ed": 1984, "name": "GH-\u80f0\u5c9b\u7d20\u6837\u751f\u957f\u56e0\u5b50I"}
+{"seq": "T264", "typ": "Test", "st": 2233, "ed": 2235, "name": "GH"}
+{"seq": "T265", "typ": "Test", "st": 2320, "ed": 2322, "name": "GH"}
+{"seq": "T266", "typ": "Test", "st": 2360, "ed": 2364, "name": "GHRH"}
+{"seq": "T267", "typ": "Test", "st": 2397, "ed": 2399, "name": "GH"}
+{"seq": "T268", "typ": "Symptom", "st": 2438, "ed": 2445, "name": "\u8179 \u8154\u8102\u80aa\u589e\u591a"}
+{"seq": "T269", "typ": "Test", "st": 2472, "ed": 2477, "name": "GH \u6c34\u5e73"}
+{"seq": "T270", "typ": "Reason", "st": 2579, "ed": 2584, "name": "GH \u4e0d\u8db3"}
+{"seq": "T271", "typ": "Disease", "st": 2592, "ed": 2597, "name": "\u7761\u7720 \u969c\u788d"}
+{"seq": "T272", "typ": "Disease", "st": 2599, "ed": 2605, "name": "\u8ba4\u77e5\u529f\u80fd\u4e0b\u964d"}
+{"seq": "T273", "typ": "Test", "st": 2609, "ed": 2611, "name": "GH"}
+{"seq": "T274", "typ": "Test", "st": 2631, "ed": 2633, "name": "GH"}
+{"seq": "T275", "typ": "Drug", "st": 2656, "ed": 2662, "name": "\u91cd\u7ec4\u4eba GH"}
+{"seq": "T276", "typ": "Disease", "st": 2926, "ed": 2929, "name": "\u7cd6\u5c3f\u75c5"}
+{"seq": "T277", "typ": "Disease", "st": 2930, "ed": 2935, "name": "\u7cd6\u8010\u91cf\u53d7\u635f"}
+{"seq": "T278", "typ": "Disease", "st": 3187, "ed": 3192, "name": "GH \u4e0d\u8db3"}
+{"seq": "T279", "typ": "Test", "st": 3226, "ed": 3228, "name": "GH"}
+{"seq": "T280", "typ": "Test", "st": 3238, "ed": 3240, "name": "GH"}
+{"seq": "T281", "typ": "Drug", "st": 3263, "ed": 3265, "name": "GH"}
+{"seq": "T282", "typ": "Drug", "st": 3300, "ed": 3302, "name": "GH"}
+{"seq": "T283", "typ": "Anatomy", "st": 3378, "ed": 3384, "name": "\u4e0b\u4e18\u8111\u5ba4\u65c1\u6838"}
+{"seq": "T284", "typ": "Anatomy", "st": 3384, "ed": 3388, "name": "\u795e\u7ecf\u7ec6\u80de"}
+{"seq": "T285", "typ": "Test", "st": 3417, "ed": 3423, "name": "\u8840 ACTH"}
+{"seq": "T286", "typ": "Test", "st": 3438, "ed": 3441, "name": "\u76ae\u8d28\u9187"}
+{"seq": "T287", "typ": "Test", "st": 3445, "ed": 3449, "name": "\u8840\u76ae\u8d28\u9187"}
+{"seq": "T288", "typ": "Test", "st": 3461, "ed": 3464, "name": "CRH"}
+{"seq": "T289", "typ": "Test", "st": 3467, "ed": 3471, "name": "ACTH"}
+{"seq": "T290", "typ": "Test", "st": 3480, "ed": 3484, "name": "\u8840\u76ae\u8d28\u9187"}
+{"seq": "T291", "typ": "Test", "st": 3682, "ed": 3688, "name": "\u57fa\u7840\u8840\u76ae\u8d28\u9187"}
+{"seq": "T292", "typ": "Test", "st": 3728, "ed": 3733, "name": "\u8840\u6d46\u76ae\u8d28\u9187"}
+{"seq": "T293", "typ": "Drug", "st": 3818, "ed": 3826, "name": "\u5916\u6e90\u6027 ACTH"}
+{"seq": "T294", "typ": "Anatomy", "st": 3859, "ed": 3864, "name": "\u5927\u8111\u6d77\u9a6c\u533a"}
+{"seq": "T295", "typ": "Anatomy", "st": 3864, "ed": 3869, "name": "\u795e\u7ecf \u7ec6\u80de"}
+{"seq": "T296", "typ": "Test", "st": 3891, "ed": 3894, "name": "\u76ae\u8d28\u9187"}
+{"seq": "T297", "typ": "Test", "st": 3956, "ed": 3960, "name": "\u8840\u76ae\u8d28\u9187"}
+{"seq": "T298", "typ": "Anatomy", "st": 4105, "ed": 4110, "name": "HPA \u8f74"}
+{"seq": "T299", "typ": "Symptom", "st": 4135, "ed": 4140, "name": "\u8bb0\u5fc6\u529b\u4e0b\u964d"}
+{"seq": "T300", "typ": "Symptom", "st": 4141, "ed": 4147, "name": "\u795e\u7ecf\u529f\u80fd\u9000\u5316"}
+{"seq": "T301", "typ": "Symptom", "st": 4148, "ed": 4154, "name": "\u9aa8\u5bc6\u5ea6\u964d \u4f4e"}
+{"seq": "T302", "typ": "Symptom", "st": 4155, "ed": 4164, "name": "\u514d\u75ab\u4e0e\u4ee3\u8c22\u529f\u80fd\u5f02\u5e38"}
+{"seq": "T303", "typ": "Anatomy", "st": 4197, "ed": 4202, "name": "HPA \u8f74"}
+{"seq": "T304", "typ": "Reason", "st": 4380, "ed": 4386, "name": "\u5782\u4f53 \u5927\u817a\u7624"}
+{"seq": "T305", "typ": "Reason", "st": 4387, "ed": 4395, "name": "\u5782\u4f53\u5468\u56f4\u80bf\u7624\u538b\u8feb"}
+{"seq": "T306", "typ": "Reason", "st": 4409, "ed": 4414, "name": "\u5782 \u4f53\u624b\u672f"}
+{"seq": "T307", "typ": "Reason", "st": 4415, "ed": 4419, "name": "\u653e\u5c04\u6cbb\u7597"}
+{"seq": "T308", "typ": "Reason", "st": 4421, "ed": 4428, "name": "\u5782\u4f53\u6d78\u6da6\u6027\u75c5\u53d8"}
+{"seq": "T309", "typ": "Reason", "st": 4430, "ed": 4438, "name": "\u6dcb\u5df4\u7ec6\u80de\u6027\u5782\u4f53\u708e"}
+{"seq": "T310", "typ": "Reason", "st": 4474, "ed": 4478, "name": "\u50ac\u4e73\u7d20\u7624"}
+{"seq": "T311", "typ": "Reason", "st": 4510, "ed": 4516, "name": "\u65e0\u529f\u80fd\u6027\u80bf\u7624"}
+{"seq": "T312", "typ": "Reason", "st": 4531, "ed": 4535, "name": "GH \u7624"}
+{"seq": "T313", "typ": "Reason", "st": 4537, "ed": 4541, "name": "\u50ac\u4e73\u7d20\u7624"}
+{"seq": "T314", "typ": "Reason", "st": 4555, "ed": 4560, "name": "\u5782\u4f53\u7624\u5352\u4e2d"}
+{"seq": "T315", "typ": "Operation", "st": 4591, "ed": 4598, "name": "\u51a0 \u8109\u642d\u6865\u624b\u672f"}
+{"seq": "T316", "typ": "Anatomy", "st": 4650, "ed": 4652, "name": "\u978d\u533a"}
+{"seq": "T317", "typ": "Disease", "st": 4451, "ed": 4459, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T318", "typ": "Disease", "st": 4499, "ed": 4503, "name": "\u5782\u4f53\u80bf\u7624"}
+{"seq": "T319", "typ": "Test", "st": 3813, "ed": 3817, "name": "\u76ae \u8d28\u9187"}
+{"seq": "T320", "typ": "Anatomy", "st": 3570, "ed": 3577, "name": "\u6d77\u9a6c\u533a\u795e\u7ecf\u7ec6\u80de"}
+{"seq": "T321", "typ": "Disease", "st": 4808, "ed": 4821, "name": "GH-IGF-I\u8f74\u529f\u80fd\u51cf\u9000"}
+{"seq": "T322", "typ": "Symptom", "st": 4860, "ed": 4862, "name": "\u4e4f\u529b"}
+{"seq": "T323", "typ": "Symptom", "st": 4863, "ed": 4865, "name": "\u7eb3\u5dee"}
+{"seq": "T324", "typ": "Symptom", "st": 4871, "ed": 4875, "name": "\u4f4e\u94a0\u8840\u75c7"}
+{"seq": "T325", "typ": "Symptom", "st": 4876, "ed": 4879, "name": "\u4f4e\u8840\u7cd6"}
+{"seq": "T326", "typ": "Test", "st": 4886, "ed": 4893, "name": "\u5782\u4f53\u524d\u53f6 \u529f\u80fd"}
+{"seq": "T327", "typ": "Disease", "st": 5054, "ed": 5063, "name": "ACTH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T328", "typ": "Test", "st": 5123, "ed": 5127, "name": "ACTH"}
+{"seq": "T329", "typ": "Test_Value", "st": 5130, "ed": 5132, "name": "\u51cf\u5c11"}
+{"seq": "T330", "typ": "Test", "st": 5173, "ed": 5177, "name": "ACTH"}
+{"seq": "T331", "typ": "Symptom", "st": 5185, "ed": 5192, "name": "\u76ae\u80a4\u8272\u7d20\u51cf \u9000"}
+{"seq": "T332", "typ": "Test", "st": 5238, "ed": 5242, "name": "\u8840\u76ae\u8d28\u9187"}
+{"seq": "T333", "typ": "Test", "st": 5261, "ed": 5264, "name": "CRH"}
+{"seq": "T334", "typ": "Test", "st": 5267, "ed": 5270, "name": "ADH"}
+{"seq": "T335", "typ": "Test", "st": 5278, "ed": 5281, "name": "ADH"}
+{"seq": "T336", "typ": "Anatomy", "st": 5247, "ed": 5258, "name": "\u4e0b \u4e18\u8111\u5ba4\u65c1\u6838\u795e\u7ecf\u7ec6\u80de"}
+{"seq": "T337", "typ": "Disease", "st": 5343, "ed": 5350, "name": "\u7a00\u91ca\u6027\u4f4e\u94a0\u8840\u75c7"}
+{"seq": "T338", "typ": "Disease", "st": 5408, "ed": 5415, "name": "ACTH \u4e0d\u8db3"}
+{"seq": "T339", "typ": "Disease", "st": 5416, "ed": 5420, "name": "\u4f4e\u8840\u7cd6\u75c7"}
+{"seq": "T340", "typ": "Disease", "st": 5432, "ed": 5441, "name": "ACTH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T341", "typ": "Test", "st": 5476, "ed": 5480, "name": "ACTH"}
+{"seq": "T342", "typ": "Test", "st": 5487, "ed": 5491, "name": "\u8840\u76ae\u8d28\u9187"}
+{"seq": "T343", "typ": "Test", "st": 5510, "ed": 5514, "name": "ACTH"}
+{"seq": "T344", "typ": "Test", "st": 5550, "ed": 5554, "name": "\u8840\u76ae\u8d28\u9187"}
+{"seq": "T345", "typ": "Disease", "st": 5606, "ed": 5615, "name": "\u7f3a\u8840\u6027\u5fc3\u8840\u7ba1 \u75be\u75c5"}
+{"seq": "T346", "typ": "Disease", "st": 5827, "ed": 5835, "name": "\u5782\u4f53\u524d\u53f6\u6fc0\u7d20\u7f3a\u4e4f"}
+{"seq": "T347", "typ": "Test", "st": 5871, "ed": 5873, "name": "\u808c\u9176"}
+{"seq": "T348", "typ": "Test_Value", "st": 5873, "ed": 5875, "name": "\u5347\u9ad8"}
+{"seq": "T349", "typ": "Disease", "st": 5894, "ed": 5901, "name": "\u5fc3\u5305\u6216\u80f8\u8154\u79ef\u6db2"}
+{"seq": "T350", "typ": "Test", "st": 5948, "ed": 5950, "name": "T4"}
+{"seq": "T351", "typ": "Test_Value", "st": 5964, "ed": 5966, "name": "\u964d\u4f4e"}
+{"seq": "T352", "typ": "Disease", "st": 6006, "ed": 6013, "name": "GH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T353", "typ": "Disease", "st": 6020, "ed": 6027, "name": "GH \u5206\u6ccc\u4e0d\u8db3"}
+{"seq": "T354", "typ": "Test", "st": 6245, "ed": 6249, "name": "ACTH"}
+{"seq": "T355", "typ": "Disease", "st": 6407, "ed": 6415, "name": "\u5782\u4f53\u524d\u53f6\u529f\u80fd\u51cf\u9000"}
+{"seq": "T356", "typ": "Test", "st": 6416, "ed": 6418, "name": "GH"}
+{"seq": "T357", "typ": "Reason", "st": 4396, "ed": 4405, "name": "\u5782\u4f53\u5185\u5206\u6ccc\u7ec6\u80de\u6bc1\u635f"}
