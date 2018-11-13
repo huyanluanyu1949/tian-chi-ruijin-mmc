@@ -1,5 +1,6 @@
 # 瑞金医院MMC人工智能辅助构建知识图谱大赛
-- 供通道中人学习使用
+- 仅供同道中人学习使用
+
 - [比赛说明](https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.3cbb24c0PwM849&raceId=231687)
 
 ## 第一赛季 
@@ -13,7 +14,7 @@
 - 添加标注 .txt.tag `./clean.py.cli_tag_lines()`
 
 ## 使用说明
-- 参考
+- 修改对应代码
 
 ```
 train.py 
@@ -34,7 +35,9 @@ import att_bilstm_crf
         self.model_fp = './model/att_bilstm.h5'
 
     ...
+
 ```
+
 ### 训练词向量
 - `./c2v.py ./train`
 
