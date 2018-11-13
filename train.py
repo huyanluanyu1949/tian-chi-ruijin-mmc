@@ -158,7 +158,7 @@ class Arg():
         self.vocab_dir = './data'
         self.model_dir = './model'
         # TODO: set the model to use
-	self.model = att_cnn
+        self.model = att_cnn
         # TODO: save model fp
         self.model_fp = './model/att_bilstm.h5'
 

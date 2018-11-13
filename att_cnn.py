@@ -22,7 +22,7 @@ def build_model(input_length, emb_input_dim, emb_out_dim, lstm_hidden_units, num
     l_cnn = Conv1D(128, 3, use_bias=False, padding='same', kernel_initializer='he_normal')(l_cnn)
 
     # add attention layer
-    l_att = Attention(nb_head=8, size_per_head=16)([l_cnn] * 3)
+    l_att = Attention(nb_head=64, size_per_head=16)([l_cnn] * 3)
     print('l_att.shape:', l_att.shape)
 
     # add dense layer

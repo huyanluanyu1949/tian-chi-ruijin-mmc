@@ -103,6 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+train/*.txt.val
 train2/
 tianchi-ruijin/
 submit20181108/
