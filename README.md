@@ -2,6 +2,7 @@
 - 仅供同道中人学习使用
 
 - [比赛说明](https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.3cbb24c0PwM849&raceId=231687)
+- [原始数据 测试数据a + 测试数据](链接：https://pan.baidu.com/s/1X_5iRsoGxVbUPFW3zKTz-w 提取码：rf0g)
 
 ## 第一赛季 
   - 成绩 0.7282
